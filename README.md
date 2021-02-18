@@ -1,4 +1,4 @@
-### Hi there 👋 Check out my [Website](https://www.martinbreuss.com)
+### Hi there 👋 Check out my [Website](https://www.martinbreuss.com) or the other one that is [more fun](https://www.datamat.in)
 
 <!--
 **martin-martin/martin-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
