@@ -1,4 +1,8 @@
-### Hi there 👋 Check out my [Website](https://www.martinbreuss.com) or the other one that is [more fun](https://www.datamat.in)
+Hi there 👋 Check out my old [Website](https://www.martinbreuss.com). I made that a long time ago, it looks funny :)
+
+These days, I primarily explore Python topics new and old, and create learning materials over at [Real Python](https://realpython.com/). I also wrote a [complete three-part Python course](https://codingnomads.com/about-python-101-course) that can help you get started with programming in Python over at [Codingnomads](https://codingnomads.com/).
+
+Feel free to say hi if you want to :)
 
 <!--
 **martin-martin/martin-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
